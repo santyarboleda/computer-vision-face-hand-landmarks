@@ -1,0 +1,5 @@
+En este notebook, utilizaremos la biblioteca Mediapipe Python para detectar puntos de referencia de caras y manos. Usaremos un modelo holístico de las soluciones mediapipe para detectar todos los puntos de referencia (landmarks) de la cara y las manos. También veremos cómo podemos acceder a diferentes puntos de referencia de la cara y las manos que pueden usarse para diferentes aplicaciones de visión por computadora, como detección de lenguaje de señas, detección de somnolencia, etc.
+
+Bibliotecas requeridas
+Mediapipe es una biblioteca multiplataforma desarrollada por Google que proporciona increíbles soluciones de aprendizaje automático listas para usar para tareas de visión por computador.
+La biblioteca OpenCV en Python es una biblioteca de visión por computador que se usa ampliamente para análisis de imágenes, procesamiento de imágenes, detección, reconocimiento, etc.
